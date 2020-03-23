@@ -1,0 +1,6 @@
+framework module Pods_OBZuJianA_Tests {
+  umbrella header "Pods-OBZuJianA_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - OBZuJianA (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - OBZuJianA (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  OBZuJianA:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  OBZuJianA: 9dec28140f056d4ec9965d9dc0415569ccf2850f
+
+PODFILE CHECKSUM: 716a93701ecb88a69fa185efe25a6b0c2b250a03
+
+COCOAPODS: 1.9.1
