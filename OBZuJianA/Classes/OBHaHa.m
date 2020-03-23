@@ -11,7 +11,7 @@
 @implementation OBHaHa
 
 - (void)say:(NSString *)str {
-    NSLog(@"%@", str);
+    NSLog(@"---%@---", str);
 }
 
 @end
